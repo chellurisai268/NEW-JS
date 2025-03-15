@@ -1,0 +1,27 @@
+
+
+.main1{
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid blue; */
+    width: 80%;
+    height: 200px;
+    align-items: center;
+   
+}
+.form-range{
+    width: 150px;
+}
+.a1{
+    
+    height: 75px;
+    padding: 2px;
+    margin: 10px;
+}
+.b1{
+    display: flex;
+    width: 75%;
+    justify-content:end;
+    margin-top: -20px;
+    
+}
